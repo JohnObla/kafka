@@ -1,6 +1,10 @@
 # Learning Process
 
+<<<<<<< HEAD
 Created this project to learn kafka<br>
+=======
+Created this project to learn Kafka<br>
+>>>>>>> 214089ccea4d99c08d0e89755d8226029e74d4ca
 Below is a documentation of my learning process.
 
 1. Decided to learn Kafka 🥳
