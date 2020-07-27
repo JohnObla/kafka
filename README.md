@@ -74,3 +74,11 @@ Below is a documentation of my learning process.
 24. Discovered bug where trying to delete topics on windows causes kafka to crash. I'll complete the rest of the course on my Linux VM 🤷‍♂️
 
     ☝ https://issues.apache.org/jira/browse/KAFKA-1194
+
+25. Getting `Could not get lock` error in linux
+
+26. Followed online documentation, now getting different error `E: Unable to fetch some archives, maybe run apt-get update or try with --fix-missing?` 😢
+
+27. Absolutely could not get JDK 8 installed on Linux, using Macbook instead
+
+28.
