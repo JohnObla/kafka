@@ -63,6 +63,14 @@ Below is a documentation of my learning process.
 
     4. As long as the number of partitions remains constant for a topic, the same key will always go to the same partition
 
-20. Installed Java JDK 8 ☕
+20. Installed Java JDK 8
 
-21. 
+21. Installed Kafka and added PATH file for `kafka_2.12-2.5.0\bin\windows` 🎉
+
+22. Created data directory for Zookeeper, and log directory for Kafka
+
+23. Started servers for Zookeper and Kafka
+
+24. Discovered bug where trying to delete topics on windows causes kafka to crash. I'll complete the rest of the course on my Linux VM 🤷‍♂️
+
+    ☝ https://issues.apache.org/jira/browse/KAFKA-1194
