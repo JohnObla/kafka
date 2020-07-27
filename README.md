@@ -1,10 +1,6 @@
 # Learning Process
 
-<<<<<<< HEAD
-Created this project to learn kafka<br>
-=======
 Created this project to learn Kafka<br>
->>>>>>> 214089ccea4d99c08d0e89755d8226029e74d4ca
 Below is a documentation of my learning process.
 
 1. Decided to learn Kafka 🥳
@@ -85,4 +81,10 @@ Below is a documentation of my learning process.
 
 27. Absolutely could not get JDK 8 installed on Linux, using Macbook instead
 
-28.
+27. Can't install JDK8 through brew due to licenscing 🙄
+
+27. JDK 8 successfully installed manually 🎉
+
+28. Added kafka folder to repo
+
+29. 
