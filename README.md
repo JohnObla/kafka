@@ -13,7 +13,7 @@ Below is a documentation of my learning process.
 
 4. Watched lecture by Confluent that explained the above concepts in more detail
 
-   ☝ The lecture also detailed Kafka's logs (Topics) and how each event is stored
+	☝ The lecture also detailed Kafka's logs (Topics) and how each event is stored
 
 5. Installed Docker
 
@@ -21,7 +21,7 @@ Below is a documentation of my learning process.
 
 7. Stopped Confluent's tutorial series as they had a very "code first, ask questions later" approach
 	
-   ☝ I learn a lot better when I understand the concepts that I'm learning _before_ I start coding
+	☝ I learn a lot better when I understand the concepts that I'm learning _before_ I start coding
 
 8. Found a better Kafka learning series that also goes over the concepts too
 
