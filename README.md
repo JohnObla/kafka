@@ -39,19 +39,26 @@ Below is a documentation of my learning process.
 
 15. Learned and Consumers and Consumer Groups
 
-16. Learned about Consumer Offsets and Delivery Semantics; At most once, At least once, Exactly once (🤩)
+16. Learned about Consumer Offsets, the Offsets Topic, and Delivery Semantics
+
+    1. At most once
+    
+    2. At least once
+    
+    3. Exactly once 🤩👌
 
 17. Learned about Broker Discovery
 
 18. Learned about how Zookeper manages Kafka's brokers
 
-19. Learned about the Kafka Guarantees 📜
+19. Revised the Kafka Guarantees 📜
 
     1. Messages are appended to a topic-partition in the order they are sent
 
     2. Consumers read messages in the order stored in a topic-partition
 
-    3. With a replication factor of N, producers and consumers can tolerate up to N-1 brokers being down _(N ≥ 3 is best, as a broker can be taken down for maintenance while another can go down unexpectedly)_
+    3. With a replication factor of N, producers and consumers can tolerate up to N-1 brokers being down
+
+        ☝ _(N ≥ 3 is best, as a broker can be taken down for maintenance while another can go down unexpectedly)_
 
     4. As long as the number of partitions remains constant for a topic, the same key will always go to the same partition
-    
