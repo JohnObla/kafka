@@ -1,6 +1,6 @@
 # Learning Process
 
-Created this project to learn Ruby on Rails<br>
+Created this project to learn Kafka<br>
 Below is a documentation of my learning process.
 
 1. Decided to learn Kafka 🥳
