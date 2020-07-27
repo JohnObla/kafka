@@ -62,3 +62,7 @@ Below is a documentation of my learning process.
         ☝ _(N ≥ 3 is best, as a broker can be taken down for maintenance while another can go down unexpectedly)_
 
     4. As long as the number of partitions remains constant for a topic, the same key will always go to the same partition
+
+20. Installed Java JDK 8 ☕
+
+21. 
