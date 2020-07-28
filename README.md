@@ -89,6 +89,6 @@ Below is a documentation of my learning process.
 
 29. Added kafka_2.12-2.5.0/bin to zsh path
 
-30. Started server for Kafka
+30. Started servers for Zookeeper and Kafka
 
 31. 
