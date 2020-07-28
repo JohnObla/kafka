@@ -119,4 +119,6 @@ Below is a documentation of my learning process.
 
 43. Installed Maven
 
-44. 
+44. Programmed kafka producer using java
+
+    
