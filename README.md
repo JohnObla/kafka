@@ -71,7 +71,7 @@ Below is a documentation of my learning process.
 
 23. Started servers for Zookeper and Kafka
 
-24. Discovered bug where trying to delete topics on windows causes kafka to crash. I'll complete the rest of the course on my Linux VM 🤷‍♂️
+24. Discovered bug where trying to delete topics on windows causes kafka to crash 🤷‍♂️. I'll complete the rest of the course on my Linux VM 
 
     ☝ https://issues.apache.org/jira/browse/KAFKA-1194
 
@@ -87,4 +87,8 @@ Below is a documentation of my learning process.
 
 28. Added kafka folder to repo
 
-29. 
+29. Added kafka_2.12-2.5.0/bin to zsh path
+
+30. Started server for Kafka
+
+31. 
