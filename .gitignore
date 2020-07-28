@@ -25,3 +25,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Logs
+kafka_2.12-2.5.0/data
+kafka_2.12-2.5.0/logs
