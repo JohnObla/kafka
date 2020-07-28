@@ -115,4 +115,8 @@ Below is a documentation of my learning process.
 
 41. Changed offset positions using consumer groups
 
-42. 
+42. Started programming Kafka with Java 🥳
+
+43. Installed Maven
+
+44. 
