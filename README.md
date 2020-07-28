@@ -91,4 +91,14 @@ Below is a documentation of my learning process.
 
 30. Started servers for Zookeeper and Kafka 🎉
 
-31. 
+31. Created aliases to start Zookeeper and Kafka with relevant config files
+
+32. Learned how to list, descripe, create, and delete topics
+
+33. Created alias for kafka-topics
+
+34. Learned how producers can write to a topic that doesn't exist yet
+
+    👆 Not recommended due to poor default settings of new topic
+
+35. 
