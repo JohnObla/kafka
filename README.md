@@ -1,7 +1,8 @@
 # Learning Process
 
 Created this project to learn Kafka<br>
-Below is a documentation of my learning process.
+Below is a documentation of my learning process, starting at 12:30pm, 27th July 2020
+Please also visit my Hadoop repo here: 
 
 1. Decided to learn Kafka 🥳
 
@@ -120,5 +121,3 @@ Below is a documentation of my learning process.
 43. Installed Maven
 
 44. Programmed kafka producer using java
-
-    
