@@ -101,4 +101,10 @@ Below is a documentation of my learning process.
 
     👆 Not recommended due to poor default settings of new topic
 
-35. 
+35. Changed default partition number to 3 in `server.properties`
+
+36. Learned how console-producer can stream messages to console-consumer
+
+37. Used `--from-beginning` to retrieve messages sent before the consumer was initialised
+
+38. 
