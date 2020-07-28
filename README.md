@@ -107,4 +107,12 @@ Below is a documentation of my learning process.
 
 37. Used `--from-beginning` to retrieve messages sent before the consumer was initialised
 
-38. 
+38. Played around with multiple consumers and consumer groups reading from the same producer
+
+39. Changed kafka-topics to use `--bootstrap-server localhost:9092`
+
+40. Learned about consumer groups, and the relationship between offsets and lag
+
+41. Changed offset positions using consumer groups
+
+42. 
