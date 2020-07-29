@@ -121,3 +121,7 @@ Please also visit my Hadoop repo here:
 43. Installed Maven
 
 44. Programmed kafka producer using java
+
+45. Added kafka aliases to repo
+
+46. Programmed kafka producer to use callbacks
